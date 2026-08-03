@@ -1,1 +1,1 @@
-This is my first git practice project
+This project belongs to payment team.
