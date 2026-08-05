@@ -1,4 +1,4 @@
-This project belongs to Login Operations Team.
+This project belongs to login development and operations team.
 This project belongs to payment team.
 payment team handles payment processing.
 Git remote repository practical training.
